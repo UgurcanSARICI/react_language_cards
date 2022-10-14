@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+:root {
+  --color1: #0099ff;
+  --color2: #fff;
+  --color3: #202020;
+  --color4: #d93e30;
+  --color5: #8c1414;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: var(--color3);
+}
+
+.reactlogo {
+  width: 300px;
+  text-align: center;
+  margin: 1rem;
+}

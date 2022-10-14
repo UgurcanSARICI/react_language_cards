@@ -1,9 +1,13 @@
+import { languages } from "./helper/data";
 import "./App.css";
+import reactsvg from "./assets/react.svg";
 
 function App() {
   return (
-    <div className="App">
-      <h1>language</h1>
+    <div className="bos-div">
+      {/*  */}
+      <img src={reactsvg} alt="reactlogo" className="reactlogo" />
+      {/*  */}
     </div>
   );
 }
