@@ -28,3 +28,24 @@ body {
   text-align: center;
   margin: 1rem;
 }
+
+.down-container {
+  background-color: var(--color1);
+  width: 350px;
+  border-radius: 20px;
+}
+
+.main-container {
+  display: grid;
+  justify-content: space-between;
+  align-items: center;
+  grid-template-columns: auto auto;
+  grid-template-columns: 150px 150px;
+  padding: 1rem;
+  gap: 0.5rem;
+}
+
+h2 {
+  text-align: center;
+  margin: 0.5rem;
+}
