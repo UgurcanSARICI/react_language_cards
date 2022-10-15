@@ -1,4 +1,4 @@
-import { languages } from "./helper/data";
+import { data } from "./helper/data";
 import "./App.css";
 import reactsvg from "./assets/react.svg";
 import Card from "./components/Card";
@@ -12,7 +12,7 @@ function App() {
         <div>
           <h2>Language</h2>
           <div className="main-container">
-            {languages.map((language, index) => {
+            {data.map((language, index) => {
               return (
                 <div className="container">
                   <Card key={index} {...language} />
