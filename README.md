@@ -1,13 +1,14 @@
+```
 002-Language Cards(folder)
 |
-|----readme.md         # Given to the students (Definition of the project)
+|----readme.md        
 SOLUTION
 ├── public
 │     └── index.html
 ├── src
 │    ├── components
 │    │       ├── Card.css
-|    |       └── Card.js
+│    │       └── Card.js
 │    ├── helper
 │    │       └── data.js
 │    ├── assets.js
@@ -17,3 +18,4 @@ SOLUTION
 │    ├── index.js
 │    └── index.css
 ├── package.json
+```
