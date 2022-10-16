@@ -13,11 +13,11 @@
 
 
 ## The challenge
-Project aims to create a Weather App with React and Tailwindcss
+Project aims to create a Language Cards app with React and Bootstrap
 
 ## Problem Statement
 
-- Develop a weather app to improve your REACT knowledge and practice with tailwindcss
+- Develop a language cards app to improve your REACT knowledge and practice with Bootstrap
 <hr>
 
 
