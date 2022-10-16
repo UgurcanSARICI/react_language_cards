@@ -27,7 +27,9 @@ Project aims to create a Weather App with React and Tailwindcss
 ```
 Language Cards(folder)
 |
-|----readme.md        
+|----readme.md   
+|
+|----lang.gif        
 |
 ├── public
 │     └── index.html
@@ -63,7 +65,7 @@ Language Cards(folder)
 
 - React Components, props, states, hooks
 
-- API GET requests (Fetch)
+- React click events , functions
 
 - JSX Elements
 
