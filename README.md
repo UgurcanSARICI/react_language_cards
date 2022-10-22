@@ -1,5 +1,5 @@
 
-# Project : Weather App
+# Project : Language Cards App
 
 ## Table of contents
 
